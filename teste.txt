@@ -5,3 +5,4 @@ Funcionalidade X
 Enviando
 uma nova
 Funcionalidade
+Enviando a funcionalidade b
