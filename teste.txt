@@ -5,3 +5,5 @@ Funcionalidade X
 Enviando a
 funcionalidade 
 b
+Enviando
+novas alterações
